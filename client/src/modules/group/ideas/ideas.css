@@ -12,3 +12,9 @@
 .button-center {
   justify-content: center;
 }
+
+.ideas-card-section {
+  max-width: 500px;
+  width: 100%;
+  
+}
